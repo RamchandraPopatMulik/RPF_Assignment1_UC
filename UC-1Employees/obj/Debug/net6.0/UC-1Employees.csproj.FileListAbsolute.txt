@@ -1,0 +1,15 @@
+D:\Project1\UC-1Employees\UC-1Employees\bin\Debug\net6.0\UC-1Employees.exe
+D:\Project1\UC-1Employees\UC-1Employees\bin\Debug\net6.0\UC-1Employees.deps.json
+D:\Project1\UC-1Employees\UC-1Employees\bin\Debug\net6.0\UC-1Employees.runtimeconfig.json
+D:\Project1\UC-1Employees\UC-1Employees\bin\Debug\net6.0\UC-1Employees.dll
+D:\Project1\UC-1Employees\UC-1Employees\bin\Debug\net6.0\UC-1Employees.pdb
+D:\Project1\UC-1Employees\UC-1Employees\obj\Debug\net6.0\UC-1Employees.csproj.AssemblyReference.cache
+D:\Project1\UC-1Employees\UC-1Employees\obj\Debug\net6.0\UC-1Employees.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project1\UC-1Employees\UC-1Employees\obj\Debug\net6.0\UC-1Employees.AssemblyInfoInputs.cache
+D:\Project1\UC-1Employees\UC-1Employees\obj\Debug\net6.0\UC-1Employees.AssemblyInfo.cs
+D:\Project1\UC-1Employees\UC-1Employees\obj\Debug\net6.0\UC-1Employees.csproj.CoreCompileInputs.cache
+D:\Project1\UC-1Employees\UC-1Employees\obj\Debug\net6.0\UC-1Employees.dll
+D:\Project1\UC-1Employees\UC-1Employees\obj\Debug\net6.0\refint\UC-1Employees.dll
+D:\Project1\UC-1Employees\UC-1Employees\obj\Debug\net6.0\UC-1Employees.pdb
+D:\Project1\UC-1Employees\UC-1Employees\obj\Debug\net6.0\UC-1Employees.genruntimeconfig.cache
+D:\Project1\UC-1Employees\UC-1Employees\obj\Debug\net6.0\ref\UC-1Employees.dll
