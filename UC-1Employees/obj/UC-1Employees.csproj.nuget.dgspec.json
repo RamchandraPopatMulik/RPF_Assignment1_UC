@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Project1\\UC-1Employees\\UC-1Employees\\UC-1Employees.csproj": {}
+    "D:\\Project1\\UC-1Employees\\RPF_Assignment1_UC\\UC-1Employees\\UC-1Employees.csproj": {}
   },
   "projects": {
-    "D:\\Project1\\UC-1Employees\\UC-1Employees\\UC-1Employees.csproj": {
+    "D:\\Project1\\UC-1Employees\\RPF_Assignment1_UC\\UC-1Employees\\UC-1Employees.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project1\\UC-1Employees\\UC-1Employees\\UC-1Employees.csproj",
+        "projectUniqueName": "D:\\Project1\\UC-1Employees\\RPF_Assignment1_UC\\UC-1Employees\\UC-1Employees.csproj",
         "projectName": "UC-1Employees",
-        "projectPath": "D:\\Project1\\UC-1Employees\\UC-1Employees\\UC-1Employees.csproj",
+        "projectPath": "D:\\Project1\\UC-1Employees\\RPF_Assignment1_UC\\UC-1Employees\\UC-1Employees.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\Project1\\UC-1Employees\\UC-1Employees\\obj\\",
+        "outputPath": "D:\\Project1\\UC-1Employees\\RPF_Assignment1_UC\\UC-1Employees\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",

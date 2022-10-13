@@ -6,8 +6,8 @@
         {
 
             int IS_FULLTIME = 1;
-            Random random = new Random();
-            int val = random.Next(0,2);
+            Random ran = new Random();
+            int val = ran.Next(0,2);
             if (val == IS_FULLTIME)
             {
                 Console.WriteLine("Employee is present");
